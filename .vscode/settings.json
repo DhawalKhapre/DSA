@@ -1,5 +1,11 @@
 {
     "files.associations": {
-        "vector": "cpp"
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
     }
 }
